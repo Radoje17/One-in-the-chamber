@@ -1,0 +1,11 @@
+# Changelog
+# 1.0 - initial release
+# 1.1 - Dodat jos jedan nacin da se izadje iz igre /oitc leave, promenjena boja na znaku
+# 1.2 - Vise ne mozes da ubijes samog sebe strelom
+name: OneInTheChamber
+version: 1.2
+main: me.radoje17.oneinthechamber.OneInTheChamber
+author: Radoje17
+commands:
+  OneInTheChamber:
+    aliases: [oitc]
